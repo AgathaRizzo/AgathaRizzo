@@ -8,5 +8,5 @@ Olá, eu sou a Agatha Rizzo
 <div>
   <a href="https://github.com/Agatharizzo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgathaRizzo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaRizzo&layout=compact&langs_count=168theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaRizzo&layout=compact&langs_count=168theme=omni"/>
 </div>
