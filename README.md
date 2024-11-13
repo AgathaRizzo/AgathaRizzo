@@ -3,7 +3,6 @@ Olá, eu sou a Agatha Rizzo
 - 🔭 Atualmente sou estagiária de TI
 - 📖 Cursando o 3º semestre de Análise e Desenvolviemento de Sistemas
 - 🌱 Estou aprendendo Python, HTML, CSS, SQL
-- 😄 Pronomes: Ela/Dela
 
 <div>
   <a href="https://github.com/Agatharizzo">
