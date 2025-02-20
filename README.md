@@ -1,7 +1,7 @@
 Olá, eu sou a Agatha Rizzo
 
 - 🔭 Atualmente sou estagiária de TI
-- 📖 Cursando o 3º semestre de Análise e Desenvolviemento de Sistemas
+- 📖 Cursando Análise e Desenvolviemento de Sistemas no IFSP
 - 🌱 Estou aprendendo Python, HTML, CSS, SQL
 
 <div>
